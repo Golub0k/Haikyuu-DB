@@ -56,3 +56,5 @@
 высчитывается при добавлении/изменении/удалении билетов, входящих в это бронирование)
 
 * Поле Irreplaceable в таблице Player_statistics обновляется триггером
+
+![alt_text](https://github.com/Golub0k/Haikyuu-DB/blob/main/%D1%85%D0%B8%D0%BD%D0%B0%D1%82%D0%B0.png)
