@@ -3,7 +3,7 @@
 ## Contributors:
 **20SE-2**
 * ***Golub Mary*** 
-* ***Oleg Grigoryev***
+* ***Oleg Grigoriev***
 
 #### Придумать свою предметную область и продумать схему БД для неё.
 	
